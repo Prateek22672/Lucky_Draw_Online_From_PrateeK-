@@ -12,7 +12,7 @@ int main(){
         break;
         
         case 2:
-        printf("Hurry Won iphone 13");
+        printf("Hurry Won iphone 14");
         break;
         
         case 3:
